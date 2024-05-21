@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Sejam bem vindos ao meu perfil 👋
+Estudo na EE Paulo Virginio. Estou estudando na Alura. Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 <!--
 **rogeriobreno/Rogeriobreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
